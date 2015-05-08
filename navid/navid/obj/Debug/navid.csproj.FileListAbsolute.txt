@@ -1,0 +1,38 @@
+C:\Documents and Settings\tareq\My Documents\Visual Studio 2008\Projects\navid\navid\bin\Debug\navid.exe
+C:\Documents and Settings\tareq\My Documents\Visual Studio 2008\Projects\navid\navid\bin\Debug\navid.pdb
+C:\Documents and Settings\tareq\My Documents\Visual Studio 2008\Projects\navid\navid\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tareq\My Documents\Visual Studio 2008\Projects\navid\navid\obj\Debug\navid.Form1.resources
+C:\Documents and Settings\tareq\My Documents\Visual Studio 2008\Projects\navid\navid\obj\Debug\navid.Properties.Resources.resources
+C:\Documents and Settings\tareq\My Documents\Visual Studio 2008\Projects\navid\navid\obj\Debug\navid.csproj.GenerateResource.Cache
+C:\Documents and Settings\tareq\My Documents\Visual Studio 2008\Projects\navid\navid\obj\Debug\navid.exe
+C:\Documents and Settings\tareq\My Documents\Visual Studio 2008\Projects\navid\navid\obj\Debug\navid.pdb
+D:\navid\navid\obj\Debug\navid.exe
+D:\navid\navid\obj\Debug\navid.pdb
+D:\navid\navid\bin\Debug\navid.exe
+D:\navid\navid\bin\Debug\navid.pdb
+D:\navid\navid\obj\Debug\ResolveAssemblyReference.cache
+D:\navid\navid\obj\Debug\navid.Form1.resources
+D:\navid\navid\obj\Debug\navid.Properties.Resources.resources
+D:\navid\navid\obj\Debug\navid.csproj.GenerateResource.Cache
+I:\cd\navid\navid\obj\Debug\navid.exe
+I:\cd\navid\navid\obj\Debug\navid.pdb
+G:\cd\navid\navid\obj\Debug\navid.exe
+G:\cd\navid\navid\obj\Debug\navid.pdb
+G:\cd\navid\navid\bin\Debug\navid.exe
+G:\cd\navid\navid\bin\Debug\navid.pdb
+G:\cd\navid\navid\obj\Debug\ResolveAssemblyReference.cache
+G:\cd\navid\navid\obj\Debug\navid.Form1.resources
+G:\cd\navid\navid\obj\Debug\navid.Properties.Resources.resources
+G:\cd\navid\navid\obj\Debug\navid.csproj.GenerateResource.Cache
+G:\project2\navid\navid\obj\Debug\navid.exe
+G:\project2\navid\navid\obj\Debug\navid.pdb
+I:\project2\navid\navid\obj\Debug\navid.exe
+I:\project2\navid\navid\obj\Debug\navid.pdb
+D:\SEEN\project2\navid\navid\obj\Debug\navid.exe
+D:\SEEN\project2\navid\navid\obj\Debug\navid.pdb
+D:\SEEN\project2\navid\navid\bin\Debug\navid.exe
+D:\SEEN\project2\navid\navid\bin\Debug\navid.pdb
+D:\SEEN\project2\navid\navid\obj\Debug\ResolveAssemblyReference.cache
+D:\SEEN\project2\navid\navid\obj\Debug\navid.Form1.resources
+D:\SEEN\project2\navid\navid\obj\Debug\navid.Properties.Resources.resources
+D:\SEEN\project2\navid\navid\obj\Debug\navid.csproj.GenerateResource.Cache
